@@ -8,8 +8,5 @@ This micro-service handles backend for an e-commerce application.
 
        ·       Seller is able to post products. 
 
-       ·       User is able to add products to cart. 
-
-       ·       User should be able to place an order by making payment. 
-
+       ·       User is able to add products to cart and place order as well.
  
